@@ -3,7 +3,7 @@
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
-Release:	3
+Release:	4
 
 Summary:	Cache and compare stat() calls on a Path::Class::File object
 License:	GPL+ or Artistic
