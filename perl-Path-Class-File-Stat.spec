@@ -8,7 +8,7 @@ Release:	5
 Summary:	Cache and compare stat() calls on a Path::Class::File object
 License:	GPL+ or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{upstream_name}
+Url:		https://search.cpan.org/dist/%{upstream_name}
 Source0:	http://www.cpan.org/modules/by-module/Path/%{upstream_name}-%{upstream_version}.tar.gz
 
 BuildRequires:	perl-devel
